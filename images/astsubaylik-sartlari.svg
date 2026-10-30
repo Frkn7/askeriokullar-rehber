@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title description">
+  <title id="title">Astsubaylık başvuru şartları</title>
+  <desc id="description">Güncel başvuru kılavuzunu incelemeyi gösteren özgün illüstrasyon</desc>
+  <rect width="960" height="640" fill="#e9edf2"/>
+  <path d="M0 0h570L355 640H0z" fill="#0b1626"/>
+  <path d="M960 0H690L470 640h490z" fill="#b42332"/>
+  <rect x="537" y="154" width="246" height="321" rx="8" fill="#fff" transform="rotate(7 537 154)"/>
+  <path d="M592 228h142m-150 52h136m-146 52h144m-151 52h99" fill="none" stroke="#8895a7" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="733" cy="388" r="37" fill="#f4c769"/>
+  <path d="M716 387l12 12 23-26" fill="none" stroke="#0b1626" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <text x="57" y="103" fill="#f4c769" font-family="Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="5">ADAY REHBERİ</text>
+  <text x="57" y="454" fill="#fff" font-family="Arial,sans-serif" font-size="59" font-weight="800" letter-spacing="-2">BAŞVURU ŞARTLARI</text>
+  <text x="61" y="502" fill="#d7deea" font-family="Arial,sans-serif" font-size="23">GÜNCEL KILAVUZU KONTROL ET</text>
+</svg>
